@@ -9,3 +9,7 @@ int main() {
     }
     return 0;
 }
+
+int Feature2() {
+	//sample code for Feature2
+}
