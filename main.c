@@ -10,6 +10,9 @@ int main() {
     return 0;
 }
 
+int Feature2() {
+	//sample code for Feature2
+}
 int Feature1() {
 	//sample code for feature1 branch
 }
